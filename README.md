@@ -23,11 +23,11 @@
 **Certificado** - Vamos focar exclusivamente no HTML e CSS e criar nosso próprio certificado do zero.
 
 ## 🎮 Projetos
-**Projetos** - Acesse os projetos[Link](https://codepen.io/lucasllimati/full/xxgdEqW)
+**Projetos** - Acesse os projetos [Link](https://codepen.io/lucasllimati/full/xxgdEqW).
 
 ## 🖊 Anotações - Notion
 
-Essas anotações Notion sobre a teoria do curso [Link]()
+Essas anotações Notion sobre a teoria do curso [Link]().
 
 ## 📚 Tecnologias
 
@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🖊 Plataforma
 
-Esses projetos foram desenvolvidos na plataforma CodePen [Link]()
+Esses projetos foram desenvolvidos na plataforma CodePen [Link]().
 
 ## 📝 Licença
 
@@ -47,7 +47,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👏 Agradecimento
 
-Agradeço a [Alura](https://www.alura.com.br/) por esse primeiro passo na jornada como futuro desenvolvedor Python.
+Agradeço a [Alura](https://www.alura.com.br/) por esse aprendizado nos últimos dias, e também aos instrutores.
 
 #### Paulo Silveira
 Co-fundador e CEO da Alura.
@@ -74,9 +74,6 @@ Desenvolvedor e Instrutor na Alura.
     <a href="https://www.linkedin.com/in/guilherme-lima-developer/">LinkedIn</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## 
-<p align="center">Developed with by Lucas Lima</p>
-
 ## 📝 Descrição das atividades
 NUMERO | DESCRIÇÃO
 :-------: | :-------
@@ -90,3 +87,7 @@ NUMERO | DESCRIÇÃO
 08 | Super Trunfo (cartas).
 09 | Super Trunfo (mais cartas).
 10 | Certificado.
+
+
+
+<p align="center">Developed with by Lucas Lima</p>

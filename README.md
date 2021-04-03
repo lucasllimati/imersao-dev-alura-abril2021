@@ -1,4 +1,4 @@
-# ALURA - IMERSÃO DEV_.
+# ALURA - IMERSÃO DEV_
 
 ## 🏃 Desafios
 
@@ -22,7 +22,7 @@
 
 **Certificado** - Vamos focar exclusivamente no HTML e CSS e criar nosso próprio certificado do zero.
 
-
+## 🎮 Projetos
 **Projetos** - Acesse os projetos[Link](https://codepen.io/lucasllimati/full/xxgdEqW)
 
 ## 🖊 Anotações - Notion

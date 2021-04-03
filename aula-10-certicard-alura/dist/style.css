@@ -1,0 +1,129 @@
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #2979ff;
+  font-family: 'Open Sans', sans-serif;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+section h1 {
+  font-size: 30px;
+  text-align: center;
+  padding: 0;
+}
+
+section h2 {
+  font-size: 30px;
+  text-align: center;
+}
+
+header {
+  background-image: url('https://nightwing.stevivor.com/wp-content/uploads/2018/04/avengersinfinitywar.jpg');
+  background-size: cover;
+  height: 150px;
+  border-radius: 10px;
+}
+
+
+section {
+  -webkit-box-shadow: 5px 5px 50px 12px #000000; 
+  box-shadow: 5px 5px 50px 12px #000000;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+  margin-top: 100px;
+  background-color: white;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+div {
+  padding: 15px;
+  border: 1 px solid black;
+  /* propridade visual: valor*/
+  background-color: #bac3d6;
+  border-radius: 10px;
+  
+}
+
+#insignia a {
+  display: block;
+  width: auto;
+  height: auto;
+  line-height: 40px;
+  padding: 5px 10px;
+  margin: 20px;
+  background-color: #FFF;
+  color: #000;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+#insignia a:link {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+}
+
+#insignia a:hover {
+  text-decoration: underline;
+  background-color: #2979ff;
+}
+
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;  
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translatey(-50%);
+  border: 8px solid white;
+}
+
+/* .s-m {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}  */
+
+.s-m {
+  text-align: center;
+  background-color: #bac3d6;
+}
+
+.s-m a {
+  display: inline-flex;
+  width: 50px;
+  height: 50px;
+  background: #34495e;
+  color: white;
+  margin: 0 3px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  transition: 0.5s;
+  font-size: 23px;
+  text-decoration: none;
+}
+
+.s-m a:hover {
+  background: #2979ff;
+}
+.s-m a i {
+  transition: 0.5s all;
+}
+.s-m a:hover > i {
+  transform: scale(1.5) rotate(25deg);
+}

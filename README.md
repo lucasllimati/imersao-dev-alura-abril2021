@@ -27,7 +27,7 @@
 
 ## 🖊 Anotações - Notion
 
-Essas anotações Notion sobre a teoria do curso [Link]().
+Essas anotações Notion sobre a teoria do curso [Link](https://www.notion.so/Alura-ImersaoDev_-eb54d000073e4089ae47a5acb3be2a81).
 
 ## 📚 Tecnologias
 
@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🖊 Plataforma
 
-Esses projetos foram desenvolvidos na plataforma CodePen [Link]().
+Esses projetos foram desenvolvidos na plataforma CodePen [Link](codepen.io).
 
 ## 📝 Licença
 

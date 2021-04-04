@@ -67,11 +67,11 @@ function jogar(){
   var atributoSelecionado = obtemAtributoSelecionado()
   
   if(cartaJogador.atributos[atributoSelecionado] > cartaMaquina.atributos[atributoSelecionado]) {
-    alert('Venceu a maquina ☺')
+    window.alert('Venceu a maquina ☺')
   } else if (cartaJogador.atributos[atributoSelecionado] < cartaMaquina.atributos[atributoSelecionado]) {
-    alert('Perdeu. a carta da maquina era maior ○-○')
+    window.alert('Perdeu. a carta da maquina era maior ○-○')
   } else {
-    alert('Empatou!')
+    window.alert('Empatou!')
   }
   console.log(cartaMaquina)
 }

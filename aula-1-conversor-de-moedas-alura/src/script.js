@@ -7,7 +7,7 @@ var valoremDolarNumero = parseFloat(valoremDolarTexto);
 var valorEmReal = valoremDolarNumero * 5.5;
 var valorEmRealFixado = valorEmReal.toFixed(2);
 
-alert(valorEmRealFixado);
+window.alert(valorEmRealFixado);
 
 // Revisão
 // Variáveis var int - float - string

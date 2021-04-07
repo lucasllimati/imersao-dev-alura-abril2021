@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🖊 Plataforma
 
-Esses projetos foram desenvolvidos na plataforma CodePen [Link](codepen.io).
+Esses projetos foram desenvolvidos na plataforma CodePen.
 
 ## 📝 Licença
 
